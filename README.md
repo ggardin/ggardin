@@ -1,5 +1,30 @@
-### Hi there 👋
-
+```python
+$ggardinfetch                                                                  
+                                                                                
+                                                                                
+                                                                                
+                                           *@@@@                   
+                        @@@@@@@@@@@@@@@@@@@@@@@@&                  ggardin@italy.eu
+                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                  -------------
+                 @@@@@@@@@@@@@           @@@@@@@@(                 Uptime: "26 years"
+               @@@@@@@@@@@@.                @@@@@@                 Programming_languages: ", C++"
+              @@@@@@@@@@@@                    @@@@.                Other_languages: "HTML, CSS, JS, PHP"
+             @@@@@@@@@@@@                      ,@@                 Actual_languages: "Italian (native), English (C1)"
+             @@@@@@@@@@@@                                          Certifications: "Cambridge FCE, ECDL"
+            /@@@@@@@@@@@@                 ,,,,,,,,,,.              Currently_learning: "Svelte, TypeScript"
+             @@@@@@@@@@@@              @@@@@@@@@@@@@@@@            Proficiencies: "G Ads, WordPress, Adobe CC, Office"
+             @@@@@@@@@@@@@               @@@@@@@@@@@@@             
+             .@@@@@@@@@@@@/               @@@@@@@@@@,              Hobbies: "photography, mech kbs, tinkering, hiking"
+               @@@@@@@@@@@@@              @@@@@@@@@@               
+                @@@@@@@@@@@@@@            @@@@@@@@@@               more info
+                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@               ---------
+                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@.                Web: "giovannigardin.com"
+                         *@@@@@@@@@@@@@@@@@@@@@                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+```
 <!--
 **ggardin/ggardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +38,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=ggardin&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggardin&theme=default)
+
+-->
