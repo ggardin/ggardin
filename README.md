@@ -1,5 +1,5 @@
 ```python
-$ggardinfetch                                                                  
+gio@GIO:~$ ggardinfetch                                                                  
                                                                
                                                                
                                                                
