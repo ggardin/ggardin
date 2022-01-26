@@ -7,7 +7,7 @@ $ggardinfetch
                     @@@@@@@@@@@@@@@@@@@@@@@@&                  ggardin@italy.eu
                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                  -------------
              @@@@@@@@@@@@@           @@@@@@@@(                 Uptime: "26 years"
-           @@@@@@@@@@@@.                @@@@@@                 Programming_languages: ", C++"
+           @@@@@@@@@@@@.                @@@@@@                 Programming_languages: "Java, C++"
           @@@@@@@@@@@@                    @@@@.                Other_languages: "HTML, CSS, JS, PHP"
          @@@@@@@@@@@@                      ,@@                 Actual_languages: "Italian (native), English (C1)"
          @@@@@@@@@@@@                                          Certifications: "Cambridge FCE, ECDL"
