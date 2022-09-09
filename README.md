@@ -11,7 +11,7 @@ gio@GIO:~$ ggardinfetch
           @@@@@@@@@@@@                    @@@@.                Other_languages: "HTML, CSS, JS, PHP"
          @@@@@@@@@@@@                      ,@@                 Actual_languages: "Italian (native), English (C1)"
          @@@@@@@@@@@@                                          Certifications: "Cambridge FCE, ECDL"
-        /@@@@@@@@@@@@                 ,,,,,,,,,,.              Currently_learning: "Svelte, TypeScript"
+        /@@@@@@@@@@@@                 ,,,,,,,,,,.              Currently_learning: "SvelteKit, Astro, TypeScript"
          @@@@@@@@@@@@              @@@@@@@@@@@@@@@@            Proficiencies: "G Ads, WordPress, Adobe CC, Office"
          @@@@@@@@@@@@@               @@@@@@@@@@@@@             
          .@@@@@@@@@@@@/               @@@@@@@@@@,              Hobbies: "photography, mech kbs, tinkering, hiking"
